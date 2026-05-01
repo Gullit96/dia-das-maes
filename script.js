@@ -1,5 +1,5 @@
 // efeito de digitação
-const texto = "Obrigado por tudo que você faz por mim 💖";
+const texto = "Obrigado por tudo que você faz por nós!";
 let i = 0;
 
 function digitar() {
