@@ -29,7 +29,7 @@ setInterval(criarCoracao, 300);
 // botão surpresa + música
 function surpresa() {
   document.getElementById("mensagemFinal").innerText =
-    "Eu te amo mais que tudo nesse mundo 💖";
+    "EU TE AMO MAIS QUE TUDO NESSE MUNDO!";
 
   const musica = document.getElementById("musica");
   musica.play();
